@@ -1,0 +1,1 @@
+export const pingHandler = () => Response.json({ pong: true })

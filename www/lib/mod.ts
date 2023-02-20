@@ -1,0 +1,1 @@
+export { removeTrailingSlash } from "./removeTrailingSlash.ts"
