@@ -12,3 +12,5 @@ cd deno_demo
 deno run --allow-read --allow-write scripts/makeFakeBooks.ts
 deno task dev
 ```
+
+If you're using VSCode, you should install the [Deno VSCode extension](https://marketplace.visualstudio.com/items?itemName=denoland.vscode-deno).
